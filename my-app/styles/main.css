@@ -1,0 +1,10 @@
+.super-container{
+    height: 100vh;
+    background: blue;
+    color:white;
+    
+}
+
+.react-container{
+    margin: 5%
+}
